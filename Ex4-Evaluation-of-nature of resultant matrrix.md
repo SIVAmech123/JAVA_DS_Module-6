@@ -37,8 +37,8 @@ Otherwise, print “Resultant matrix is a Mixed Matrix”.
 ```
 /*
 Program to ind the nature of resultant matrrix.
-Developed by: Abinaya a
-RegisterNumber:212223040003
+Developed by: SIVAKUMAR R
+RegisterNumber:212223230209
 */
 import java.util.Scanner;
 
